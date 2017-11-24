@@ -1,0 +1,7 @@
+*.pyc
+*.mpy
+*.txt
+
+wifi_sta
+webapp_cfg.py
+webrepl_cfg.py
